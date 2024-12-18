@@ -150,3 +150,8 @@ form {
   cursor: pointer;
   box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
 }
+.btn:hover {
+  background: linear-gradient(225deg, #ff4efd, #2196f3);
+  color: #fff;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.6);
+}
